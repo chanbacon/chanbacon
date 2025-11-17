@@ -26,7 +26,7 @@ I've made a commitment to build more open-source projects to contribute back to 
 - JUnit
 
 ### 📱 Get In Touch
-🔗 LinkedIn: https://www.linkedin.com/in/baconchan/
-📧 Email: baconchancy@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/baconchan/ 
+- 📧 Email: baconchancy@gmail.com
 
 I'd love to hear your feedback. 
