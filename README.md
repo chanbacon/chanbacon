@@ -21,9 +21,9 @@ I've made a commitment to build more open-source projects to contribute back to 
 - Maven 
 
 #### Learning / Interested In
-- JavaScript
-- CSS
-- HTML
+- JavaScript, CSS and HTML
+- Spring Security
+- JUnit
 
 ### 📱 Get In Touch
 🔗 LinkedIn: https://www.linkedin.com/in/baconchan/
