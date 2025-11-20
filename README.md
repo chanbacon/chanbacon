@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🏞️ My Background 
-My background is in psychology (Bachelor's degree) and outdoor experiential learning, with 10+ years of experience as a facilitator, project lead and programme coordinator) 
+My background is in psychology (Bachelor's degree) and outdoor experiential learning, with 10+ years of experience as a facilitator, project lead and programme coordinator.
 
 ### 🧭 The Coding Journey 
 About 4 years ago, I moved into an analyst role evaluating programme impact. Out of pure curiosity, I began learning **Python** and was quickly impressed by how programming could solve problems and present solutions with clarity and power.
