@@ -10,7 +10,7 @@ Since then, I've been devoting more of my time to developing my programming skil
 
 ### 👨‍💻 Open-Source Project 
 Here is an open-source project that addresses a long-term headache for my former colleagues and myself regarding incident handling and analysis: 
-https://github.com/chanbacon/incident-reporting.git
+https://github.com/chanbacon/incident-reporting
 
 I've made a commitment to build more open-source projects to contribute back to the outdoor community, which has played a huge part in shaping who I am today. I have written the project description so that non-technical users could also understand and use it. 
 
