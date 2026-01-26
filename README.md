@@ -6,17 +6,17 @@ My background is in psychology (Bachelor's degree), outdoor experiential learnin
 ### 🧭 The Coding Journey 
 About 4 years ago, I moved into an analyst role evaluating programme impact. To enrich my toolkit, I began learning **Python** and was quickly impressed by how programming could solve problems with clarity and power. Since then, I've been developing my programming skills to become a software engineer. I am currently a student in **Kood Jõhvi**, a fantastic community for sharpening software development skills.
 
-### 👨‍💻 Current Project 
+### 👨‍💻 Recent Project
 https://github.com/chanbacon/movies-api
 
 ### 🪚 Tech Stack & Tools
 #### Language & Tools
 - Java
 - Spring Boot
-- Maven 
+- Maven
+- JavaScript, CSS and HTML
 
 #### Learning / Interested In
-- JavaScript, CSS and HTML
 - Spring Security
 - JUnit
 
