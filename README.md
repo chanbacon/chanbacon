@@ -16,7 +16,6 @@ My experience combines **problem-solving**, **data analysis**, and **stakeholder
 - Persisted race state and session data using SQLite
   
 ### 🪚 Tech Stack & Tools
-#### Language & Tools
 - Backend: Java, Spring Boot, Maven
 - Frontend: TypeScript, React
 - Database: SQLite
