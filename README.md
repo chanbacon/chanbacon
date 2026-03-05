@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-### 🏞️ My Background 
-My background is in **psychology** (Bachelor's degree), **outdoor experiential learning** (10+ years as a learning specialist, project lead, programme coordinator and analyst), and **customer service** (1 year).
+### 🏞️ Aboue Me 
+I have a Bachelor's degree in **Psychology** and over 10 years of experience in **outdoor experiential learning**, where I worked as a learning specialist, project lead, programme coordinator, and **analyst**. Currently, I work in **customer service** handling incidents in international group tours and resolving complex situations under pressure. 
 
-### 🧭 The Coding Journey 
-About 4 years ago, I moved into an analyst role evaluating programme impact. To enrich my toolkit, I began learning **Python** and was quickly impressed by how programming could solve problems with clarity and power. Since then, I've been developing my programming skills to become a software engineer. I am currently a student in **Kood Jõhvi**, a fantastic community for sharpening software development skills.
+My experience combines **problem-solving**, **data analysis**, and **stakeholder management**. I am particularly interested in how technology and data can support individuals and teams to learn, adapt, and perform. I am currently studying full-stack software development at [kood/Jõhvi](https://kood.tech/).
 
 ### 👨‍💻 Recent Projects
 [**Movies API**](https://github.com/chanbacon/movies-api) | Java, Spring Boot, SQLite, Maven, Postman 
