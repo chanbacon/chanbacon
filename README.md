@@ -24,6 +24,8 @@ My experience combines problem-solving, data analysis, and stakeholder managemen
 - Backend: Java, Spring Boot, Maven
 - Frontend: TypeScript, React
 - Database: SQLite
+- Deployment: Docker
+- Testing and documentation: Swagger, JUnit
 
 ### 📱 Get In Touch
 - 🔗 LinkedIn: https://www.linkedin.com/in/baconchan/ 
