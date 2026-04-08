@@ -14,7 +14,12 @@ My experience combines problem-solving, data analysis, and stakeholder managemen
 - Built a real-time race management system using Node.js and Socket.io
 - Designed interactive UI for race configuration, control and live information display
 - Persisted race state and session data using SQLite
-  
+
+[**Parental Benefit Calculator**](https://github.com/chanbacon/parental-benefit-calculator) | Java, TypeScript, SQLite, Docker, Swagger, JUnit
+- Led a team of three for Helmes’ technical challenge at //kood’s Job Fair
+- Built a full-stack web application that calculates parental benefits and persists data
+- Containerised deployment with Docker; added API documentation (Swagger) and automated tests (JUnit)
+
 ### 🪚 Tech Stack & Tools
 - Backend: Java, Spring Boot, Maven
 - Frontend: TypeScript, React
