@@ -23,12 +23,10 @@ My experience combines problem-solving, data analysis, and stakeholder managemen
 ### 🪚 Tech Stack & Tools
 - Backend: Java, Spring Boot, Maven
 - Frontend: TypeScript, React
-- Database: SQLite
+- Database: SQLite, PostgreSQL
 - Deployment: Docker
 - Testing and documentation: Swagger, JUnit
 
 ### 📱 Get In Touch
 - 🔗 LinkedIn: https://www.linkedin.com/in/baconchan/ 
 - 📧 Email: baconchancy@gmail.com
-
-I'd love to hear your feedback!
