@@ -5,16 +5,16 @@ I have a Bachelor's degree in Psychology and over 10 years of experience in outd
 My experience combines problem-solving, data analysis, and stakeholder management. I am particularly interested in how technology and data can support individuals and teams to learn, adapt, and perform. I am currently studying full-stack software development at [//kood](https://kood.tech/).
 
 ### 👨‍💻 Recent Projects
-**Enjoy Nature E-Commerce App** | Java, Node.js, PostgreSQL, React, TypeScript, Docker, JUnit 
+[**Enjoy Nature E-Commerce App**](https://github.com/chanbacon/naudi-loodust) | Java, Node.js, PostgreSQL, React, TypeScript, Docker, JUnit 
 - Currently building a full-stack e-commerce application with micro-service to decouple core domains (Auth, Catalogue, Cart, Payment, Reviews, Analytics) across Java and Node.js 
 - Building responsive React / TypeScript frontend interfaces and persisting data with PostgreSQL
 - Implementing unit and integration testing using JUnit alongside Docker containerisation and CI/CD pipelines for automated testing and builds
 
-**Coin Rush Web Game** | TypeScript, Node.js, Socket.IO
+[**Coin Rush Web Game**] (https://github.com/chanbacon/web-game) | TypeScript, Node.js, Socket.IO
 - Built a real-time, multi-player interactive coin collection game using Socket.IO for state synchronisation
 - Co-developed core game architecture and business logic in a two-person team using agile planning to divide tasks and iterate on features
 
-**Match-Me Ride-sharing Partner Matching App** | Java, TypeScript, React, STOMP, PostgreSQL
+[**Match-Me Ride-sharing Partner Matching App**] (https://github.com/chanbacon/match-me) | Java, TypeScript, React, STOMP, PostgreSQL
 - Built a mobile-friendly web application that matches drivers and passengers based on travel preferences, personality, and proximity.
 - Users can connect with compatible matches and communicate through real-time chat.
 
