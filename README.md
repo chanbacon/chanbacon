@@ -5,7 +5,7 @@ I have a Bachelor's degree in Psychology and over 10 years of experience in outd
 My experience combines problem-solving, data analysis, and stakeholder management. I am particularly interested in how technology and data can support individuals and teams to learn, adapt, and perform. I am currently studying full-stack software development at [//kood](https://kood.tech/).
 
 ### 👨‍💻 Recent Projects
-[**Enjoy Nature E-Commerce App**](https://github.com/chanbacon/naudi-loodust) | Java, Node.js, PostgreSQL, React, TypeScript, Docker, JUnit 
+[**Naudi Loodust! E-Commerce App**](https://github.com/chanbacon/naudi-loodust) | Java, Node.js, PostgreSQL, React, TypeScript, Docker, JUnit 
 - Currently building a full-stack e-commerce application with micro-service to decouple core domains (Auth, Catalogue, Cart, Payment, Reviews, Analytics) across Java and Node.js 
 - Building responsive React / TypeScript frontend interfaces and persisting data with PostgreSQL
 - Implementing unit and integration testing using JUnit alongside Docker containerisation and CI/CD pipelines for automated testing and builds
