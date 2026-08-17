@@ -5,6 +5,18 @@ I have a Bachelor's degree in Psychology and over 10 years of experience in outd
 My experience combines problem-solving, data analysis, and stakeholder management. I am particularly interested in how technology and data can support individuals and teams to learn, adapt, and perform. I am currently studying full-stack software development at [//kood](https://kood.tech/).
 
 ### 👨‍💻 Recent Projects
+**Enjoy Nature E-Commerce App** | Java, Node.js, PostgreSQL, React, TypeScript, Docker, JUnit 
+- Currently building a full-stack e-commerce application with micro-service to decouple core domains (Auth, Catalogue, Cart, Payment, Reviews, Analytics) across Java and Node.js 
+- Building responsive React / TypeScript frontend interfaces and persisting data with PostgreSQL 
+Implementing unit and integration testing using JUnit alongside Docker containerisation and CI/CD pipelines for automated testing and builds
+
+**Coin Rush Web Game** | TypeScript, Node.js, Socket.IO
+- Built a real-time, multi-player interactive coin collection game using Socket.IO for state synchronisation
+- Co-developed core game architecture and business logic in a two-person team using agile planning to divide tasks and iterate on features
+
+**Match-Me** 
+- Built a matching app
+
 [**Parental Benefit Calculator**](https://github.com/chanbacon/parental-benefit-calculator) | Java, TypeScript, SQLite, Docker, Swagger, JUnit
 - Led a team of three for Helmes’ technical challenge at //kood’s Job Fair
 - Built a full-stack web application that calculates parental benefits and persists data
