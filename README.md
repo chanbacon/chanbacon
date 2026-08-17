@@ -7,15 +7,16 @@ My experience combines problem-solving, data analysis, and stakeholder managemen
 ### 👨‍💻 Recent Projects
 **Enjoy Nature E-Commerce App** | Java, Node.js, PostgreSQL, React, TypeScript, Docker, JUnit 
 - Currently building a full-stack e-commerce application with micro-service to decouple core domains (Auth, Catalogue, Cart, Payment, Reviews, Analytics) across Java and Node.js 
-- Building responsive React / TypeScript frontend interfaces and persisting data with PostgreSQL 
-Implementing unit and integration testing using JUnit alongside Docker containerisation and CI/CD pipelines for automated testing and builds
+- Building responsive React / TypeScript frontend interfaces and persisting data with PostgreSQL
+- Implementing unit and integration testing using JUnit alongside Docker containerisation and CI/CD pipelines for automated testing and builds
 
 **Coin Rush Web Game** | TypeScript, Node.js, Socket.IO
 - Built a real-time, multi-player interactive coin collection game using Socket.IO for state synchronisation
 - Co-developed core game architecture and business logic in a two-person team using agile planning to divide tasks and iterate on features
 
-**Match-Me** 
-- Built a matching app
+**Match-Me Ride-sharing Partner Matching App** | Java, TypeScript, React, STOMP, PostgreSQL
+- Built a mobile-friendly web application that matches drivers and passengers based on travel preferences, personality, and proximity.
+- Users can connect with compatible matches and communicate through real-time chat.
 
 [**Parental Benefit Calculator**](https://github.com/chanbacon/parental-benefit-calculator) | Java, TypeScript, SQLite, Docker, Swagger, JUnit
 - Led a team of three for Helmes’ technical challenge at //kood’s Job Fair
