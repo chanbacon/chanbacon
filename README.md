@@ -10,11 +10,11 @@ My experience combines problem-solving, data analysis, and stakeholder managemen
 - Building responsive React / TypeScript frontend interfaces and persisting data with PostgreSQL
 - Implementing unit and integration testing using JUnit alongside Docker containerisation and CI/CD pipelines for automated testing and builds
 
-[**Coin Rush Web Game**] (https://github.com/chanbacon/web-game) | TypeScript, Node.js, Socket.IO
+[**Coin Rush Web Game**](https://github.com/chanbacon/web-game) | TypeScript, Node.js, Socket.IO
 - Built a real-time, multi-player interactive coin collection game using Socket.IO for state synchronisation
 - Co-developed core game architecture and business logic in a two-person team using agile planning to divide tasks and iterate on features
 
-[**Match-Me Ride-sharing Partner Matching App**] (https://github.com/chanbacon/match-me) | Java, TypeScript, React, STOMP, PostgreSQL
+[**Match-Me Ride-sharing Partner Matching App**](https://github.com/chanbacon/match-me) | Java, TypeScript, React, STOMP, PostgreSQL
 - Built a mobile-friendly web application that matches drivers and passengers based on travel preferences, personality, and proximity.
 - Users can connect with compatible matches and communicate through real-time chat.
 
